@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LukeTM42
+- 👋 Hi, I’m Luke
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
